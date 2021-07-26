@@ -75,10 +75,6 @@ body {
     flex-direction: row;
   }
 
-  .card-img {
-    height: 50vh;
-  }
-
   .card-content {
     display: flex;
     flex-direction: column;
